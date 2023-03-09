@@ -2,9 +2,9 @@ import WebRoutes from "./routes/WebRoutes";
 
 function App() {
   return (
-    <div>
+    <>
       <WebRoutes />
-    </div>
+    </>
   );
 }
 
